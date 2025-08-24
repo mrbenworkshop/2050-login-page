@@ -72,6 +72,12 @@ form .inputFields {
 .inputFields input:focus {
     border-color: var(--primary-color);
 }
+input.valid {
+    border-color: var(--secondary-color);
+}
+input.invalid {
+    border-color: red;
+}
 button {
     padding: 10px;
     background-color: var(--primary-color);
