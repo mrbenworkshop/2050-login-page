@@ -19,8 +19,7 @@ The goal of this project is to explore **creative front-end interactions** and b
 ---
 
 ## 🖼️ Preview
-![2050 Login Page Preview](preview.gif)  
-*(GIF or screenshot demo will be added here)*  
+![2050 Login Page Preview](preview.gif)
 
 ---
 
